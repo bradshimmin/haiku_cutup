@@ -85,9 +85,6 @@ def draw_frog(haiku_lines: list[str]) -> None:
     print("       _       ")
     print("      (o<      Thinking...")
     print("      (_)     ")
-    print("     / | \\    ")
-    print("    /  |  \\   ")
-    print("   v   v   v  ")
     print()
 
     border = "+" + "-" * (max_len + 2) + "+"
@@ -98,10 +95,6 @@ def draw_frog(haiku_lines: list[str]) -> None:
             print(f"| {w:<{max_len}} |")
     print(border)
     print()
-    print("       \\     /")
-    print("        \\   /")
-    print("         \\ /")
-    print("          v")
 
 
 def draw_haiku(haiku_lines: list[str], use_frog: bool) -> None:
