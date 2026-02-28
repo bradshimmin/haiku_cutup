@@ -19,6 +19,15 @@ python haiku_cutup.py
 - **Flexible Selection**: Choose between random or sequential line selection
 - **Multiple Output**: Generate multiple haikus at once
 
+## Example Output
+
+```
+$ python haiku_cutup.py
+this is the wind out of which i bring clouds
+identity politics
+play in the speakers
+```
+
 ## Usage
 
 ### Basic Usage
