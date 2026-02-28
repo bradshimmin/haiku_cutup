@@ -78,6 +78,13 @@ haiku_cutup/
 └── AGENTS.md           # Development guidelines
 ```
 
+## Data Source
+
+The haiku line database (`haiku_starter.csv`) is derived from the following dataset:
+
+- **Source**: [Haiku Dataset on Kaggle](https://www.kaggle.com/datasets/hjhalani30/haiku-dataset)
+- **Author**: hjhalani30
+
 ## Development
 
 ### Running Tests
