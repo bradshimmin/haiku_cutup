@@ -1,0 +1,17 @@
+# Haiku Cutup
+
+No external dependencies required! This project uses only Python standard library modules:
+
+- argparse
+- csv
+- random
+- sys
+- pathlib
+
+## Optional Development Tools
+
+If you want to run linting and type checking:
+
+```bash
+pip install ruff mypy
+```
